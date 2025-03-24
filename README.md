@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**laainy/laainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Rain**, but you can call me **Klaus**.  
+I'm a **Music Information Science** student with a passion for music and technology.  
 
-Here are some ideas to get you started:
+## 🚀 About Me   
+- 📚 Currently learning:  
+  - **Go** – Computer Programming  
+  - **C++** – Object-Oriented Programming  
+  - **MATLAB** – Machine Learning  
+  - **Python** – Statistics & Data Analysis  
+  - **Nix** – System Configuration  
+- 🔭 Working on my **NixOS configuration**.  
+- 🎵 Passionate about **Music, Music Production, and Linux**.  
+- 🎯 **2025 Goal:** Complete my NixOS setup.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laainy&show_icons=true&theme=radical)  
+
+Thanks for stopping by! 😊🚀  
+
